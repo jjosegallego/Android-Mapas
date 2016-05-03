@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.juanjosegallego.practicamapas">
+
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality. 
+    -->
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".contenedor" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".urbanomaps"
+            android:label="@string/title_activity_urbanomaps" />
+        <activity
+            android:name=".charcosmaps"
+            android:label="@string/title_activity_charcosmaps" />
+        <activity
+            android:name=".datosmaps"
+            android:label="@string/title_activity_datosmaps" />
+        <activity
+            android:name=".caminatasmaps"
+            android:label="@string/title_activity_caminatasmaps" />
+        <activity
+            android:name=".festivalesmaps"
+            android:label="@string/title_activity_festivalesmaps" />
+        <activity
+            android:name=".granjamaps"
+            android:label="@string/title_activity_granjamaps" />
+        <activity
+            android:name=".naturalmaps"
+            android:label="@string/title_activity_naturalmaps" />
+        <activity
+            android:name=".rumbamaps"
+            android:label="@string/title_activity_rumbamaps" />
+        <activity
+            android:name=".josemaps"
+            android:label="@string/title_activity_josemaps" />
+        <activity
+            android:name=".spamaps"
+            android:label="@string/title_activity_spamaps"></activity>
+    </application>
+
+</manifest>

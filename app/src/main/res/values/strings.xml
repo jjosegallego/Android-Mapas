@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">CarolionaTur3</string>
+
+
+    <string name="titulo">CAROLINA DEL PRINCIPE</string>
+    <string name="titulo2">Bienvenido al jardin Colonial de America</string>
+    <string name="titulo3">Cargando.....</string>
+    <string name="titulo4">Ven y descubre el jardin Colonial de America</string>
+
+
+    <string name="op1">Inicio</string>
+    <string name="op2">Actividades</string>
+    <string name="op3">Sitios Turisticos</string>
+    <string name="op4">Hoteles</string>
+    <string name="op5">Datos del municipio</string>
+
+
+    <string name="intro">Te ofrecemos un remanso de paz y tranquilidad en el norte antioqueño acompañado
+    de majestuosos paisajes, buena comida y la mejor atención. Mayores informes: (57)(4) 8634033 </string>
+    <string name="intro2"> El municipio ofrece un festival con artistas reconocidos el primer puente de Noviembre denominado festival de los balcones
+        ademas tenemos dos exhibiciones equinas a lo largo del año con muestras de danza, comida y diversion para toda la familia, informes en el (57(4)8634033 </string>
+    <string name="intro3">Ven y descubre nuestro pueblo!!</string>
+
+
+    <string name="charco"> VAMONOS DE CHARCOS!! </string>
+    <string name="charco1"> Nuestro municipio cuenta un gran espacio de diversion para la familia a 5 minutos del casco urbano llamado la vega,
+        donde podras preparar tu comida favorita y disfrutar de un buen chapuson</string>
+
+    <string name="noche"> DE RUMBA EN CAROLINA  </string>
+    <string name="noche1"> Disfrute de la noche carolinita acompañado de la mejor musica popular Antioqueña en neustros multiples bares
+    tambien conocidos como cantinas en donde al son de tangos y carrileras disfrutara de baile, comida y buenos tragos</string>
+
+    <string name="campo"> RECORRE NUESTRO CAMPO </string>
+    <string name="campo1"> Te ofrecemos caminatas ecologicas, senderismo y pesca como una actividad sana que te permitira experimentar la
+    belleza de nuestras tierras. Pregunta en nuestra oficina de Turismo por los paseos guiados (57(4)8634033 </string>
+
+
+    <string name="urbano"> CASCO URBANO DEL MUNICIPIO </string>
+    <string name="urbano1"> Nuestro municipio cuenta con calles empedradas y un parque principal rodeado de balcones de estilo colonial, ademas
+    en nuestro parque principal contamos con un homenaje a un hijo del pueblo el cantante Juanes</string>
+
+    <string name="veredas"> RIQUEZA NATURAL DEL MUNICIPIO </string>
+    <string name="veredas1"> Recorre sitios realmente bellos como el alto de la cruz, los bosques de Tenche y Guanacas
+    los embalses de miraflores y troneras en donde disfrutaras de la flora y fauna del municipio</string>
+
+    <string name="fiesta"> DISFRUTA DE NUESTRAS FIESTAS Y FESTIVALES </string>
+    <string name="fiesta1"> El municipio ofrece un festival con artistas reconocidos el primer puente de Noviembre denominado festival de los balcones
+        ademas tenemos dos exhibiciones equinas a lo largo del año con muestras de danza, comida y diversion para toda la familia, informes en el (57(4)8634033 </string>
+
+
+    <string name="spa"> CASA HOTEL SPA </string>
+    <string name="spa1"> Alojamiento de lujo a una cuadra del parque principal. cuenta con habitaciones sencillas y dobles a $60.000 y $80.000
+    la noche por persona incluye almuerzo y comida y acceso a zona de juegos y jacuzzi. Tel:(57)(4)8634107 </string>
+
+    <string name="jose"> HOSTAL SAN JOSE </string>
+    <string name="jose1"> Alojamiento sencillo con capacidad para 12 personas habitaciones sencillas, dobles con baño privado y tv
+        precios desde $30.000 hasta $55.000 y ofrece servicio de desayuno. Tel:(57)(4)8634205 </string>
+
+    <string name="granja"> GRANJA HOTEL LA COLONIA  </string>
+    <string name="granja1"> Alojamiento en el campo ubicado en la vereda la paz a 15 minutos del casco urbano presta habitaciones dobles y familiares
+        ademas de servicio de restaurante y sala comun con tv y juegos por $30.000 noche.Tel:(57)(4)8634058 </string>
+
+
+    <string name="municipio"> DATOS GENERALES DEL MUNICIPIO </string>
+    <string name="municipio1"> Población: </string>
+    <string name="municipio2"> Fundacion: </string>
+    <string name="municipio3"> Gentilicio: </string>
+    <string name="municipio4"> superficie: </string>
+    <string name="municipio5"> Distancia de Medellín: </string>
+    <string name="municipio6"> 3629 Habitantes </string>
+    <string name="municipio7"> 1 de Enero 1787 </string>
+    <string name="municipio8"> Carolinita </string>
+    <string name="municipio9"> 166 km cuadrados </string>
+    <string name="municipio10"> 111 Km </string>
+
+    <string name="boton"> ver en el mapa </string>
+    <string name="volver"> volver </string>
+
+
+    <string name="gracias"> Gracias por interesarse en nuestro pueblo </string>
+
+    <string name="murbano"> Casco urbano del municipio </string>
+
+    <string name="mrumba"> Parque principal </string>
+    <string name="mfestivales"> plaza de ferias </string>
+    <string name="mcaminatas"> embalses de miraflores y troneras </string>
+    <string name="mnatural"> carolina y sus paisajes </string>
+
+
+    <string name="u1"> Rumba </string>
+    <string name="u2"> Festivales </string>
+    <string name="u3"> Caminatas </string>
+
+    <string name="d1"> Paisajes </string>
+    <string name="d2"> Casco Urbano </string>
+    <string name="d3"> Charcos </string>
+
+
+
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_urbanomaps">Map</string>
+    <string name="title_activity_charcosmaps">Map</string>
+    <string name="title_activity_datosmaps">Map</string>
+    <string name="title_activity_caminatasmaps">Map</string>
+    <string name="title_activity_festivalesmaps">Map</string>
+    <string name="title_activity_granjamaps">Map</string>
+    <string name="title_activity_naturalmaps">Map</string>
+    <string name="title_activity_rumbamaps">Map</string>
+    <string name="title_activity_josemaps">Map</string>
+    <string name="title_activity_spamaps">Map</string>
+
+
+</resources>
+

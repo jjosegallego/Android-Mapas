@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">CarolionaTur3</string>
+
+
+    <string name="titulo">CAROLINA DEL PRINCIPE</string>
+    <string name="titulo2">Welcome to Americas Colonial garden</string>
+    <string name="titulo3">Loading.....</string>
+    <string name="titulo4">Come and discover the Colonial garden of America</string>
+
+
+    <string name="op1">Start</string>
+    <string name="op2">Activities</string>
+    <string name="op3">Tourist sites</string>
+    <string name="op4">Hotels</string>
+    <string name="op5">Our Town</string>
+
+
+    <string name="intro">We offer a haven of peace and tranquility in northern Antioquia accompanied majestic landscapes, good food and the best service. For more information: (57) (4) 8634033 </string>
+    <string name="intro2"> The town offers a festival with renowned artists November the first bridge festival called the balconies
+         also have two equine exhibitions throughout the year with samples of dance, food and fun for the whole family, reports in the (57 (4) 8634033 </string>
+    <string name="intro3">Come and discover our town !!</string>
+
+
+    <string name="charco"> GO OUT TO SWIM!! </string>
+    <string name="charco1"> Our municipality has a large space for family fun (5 minutes from the town )called La vega, where you can prepare your favorite food and enjoy a good river to swim</string>
+
+
+    <string name="noche"> "DE RUMBA" IN CAROLINA  </string>
+    <string name="noche1"> Enjoy the carolinita night accompanied by the best popular music, multiple bars also known as "cantinas" where the sound of tangos can enjoy dancing, food and good drinks</string>
+
+    <string name="campo"> WALKING OUR COUNTRY </string>
+    <string name="campo1"> We offer nature walks, hiking and fishing as a healthy activity that will allow you to experience the beauty of our land. Ask our tourist office for guided tours (57(4)8634033 </string>
+
+
+    <string name="urbano"> THE DOWNTOWN </string>
+    <string name="urbano1"> Our town has cobbled streets and a main park surrounded by colonial style balconies, besides our main park we have a tribute to a son of the people singer Juanes</string>
+
+    <string name="veredas"> NATURAL WEALTH OF THE MUNICIPALITY </string>
+    <string name="veredas1"> Walk over really beautiful places like the top of the cross, forests and Guanacas Tenche and miraflores reservoirs and pockets you will enjoy the flora and fauna of the municipality</string>
+
+    <string name="fiesta"> ENJOY OUR HOLIDAYS AND FESTIVALS </string>
+    <string name="fiesta1"> The town offers a festival with renowned artists November the first bridge festival called the balconies also have two equine exhibitions throughout the year with samples of dance, food and fun for the whole family, reports in the (57) (4) 8634033</string>
+
+
+    <string name="spa"> HOUSE-HOTEL SPA </string>
+    <string name="spa1">Luxury accommodation one block from the main park. It has single and double rooms at $60,000 and $80,000 night per person includes lunch and dinner and access to play area and jacuzzi. Contact:(57)(4)8634107 </string>
+
+    <string name="jose">  SAN JOSE HOTEL </string>
+    <string name="jose1"> Simple accommodation for 12 people with single, double with private bath and tv, Prices from $ 30,000 to $55,000 and offers breakfast.Contact:(57)(4)8634205 </string>
+
+    <string name="granja">  "LA COLONIA" HOTEL </string>
+    <string name="granja1"> Lodging in the field located in the path of peace 15 minutes from town provides double and family rooms besides service restaurant and common room with TV and games for $30,000 per night.Phone:(57(48634058 </string>
+
+
+
+    <string name="municipio"> GENERAL DATA OF CAROLINA </string>
+    <string name="municipio1"> Population: </string>
+    <string name="municipio2"> Foundation: </string>
+    <string name="municipio3"> Demonym: </string>
+    <string name="municipio4"> area </string>
+    <string name="municipio5"> Distance to Medellin: </string>
+    <string name="municipio6"> 3629 Hab. </string>
+    <string name="municipio7"> January 1st 1787 </string>
+    <string name="municipio8"> Carolinita </string>
+    <string name="municipio9"> 166 Square km  </string>
+    <string name="municipio10"> 111 Km </string>
+
+
+    <string name="boton"> look in the map </string>
+    <string name="volver"> Return </string>
+
+    <string name="gracias"> Thanks for your interest in our town </string>
+    <string name="murbano"> Carolina downtown </string>
+    <string name="mrumba"> Main square </string>
+    <string name="mfestivales"> Fair square </string>
+    <string name="mcaminatas"> Troneras and miraflores dams </string>
+    <string name="mnatural"> Carolina montains and rivers </string>
+
+    <string name="u1"> Party </string>
+    <string name="u2"> Festivals </string>
+    <string name="u3"> Trekking </string>
+
+    <string name="d1"> Land scapes </string>
+    <string name="d2"> Down town </string>
+    <string name="d3"> Rivers </string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
